@@ -1,0 +1,6 @@
+BASE_URL = "https://api.staging.formaloo.com/"
+X_API_KEY = "key_gAAAAABgcqKcvh5WYcDg_OTfToZspF1SU7rkbuvoshFmestLhCqL5Hx3kVqP1adD2I54kI9ee_dKBn58c-Rnrvd2GjeBiJjQfKyDpgYXHhJ_FTRIYS4qxRoWzZCrgiFRWVOCKaUgg8GsuTIw2FYH8mY4k4infWjLIa_H6xqsNrzqaDX4khc0o0U="
+GOOGLE_CLIENT_ID = "619484276615-o2cr9s38hq8efe0v8felarug6rkevgeu.apps.googleusercontent.com"
+
+
+

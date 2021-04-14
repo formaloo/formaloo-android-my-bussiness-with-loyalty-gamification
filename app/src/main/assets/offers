@@ -1,0 +1,58 @@
+[
+  {
+    "id": "offer_warm",
+    "title": "Warm. Tasty. Beneficial.",
+    "description": "Tasty Megadeals are back!",
+    "link": "https://en.formaloo.com/",
+    "imageUrl": "https://i.pinimg.com/736x/57/da/65/57da65db48eaf57fc0ade5e605ffa348.jpg"
+  },
+  {
+    "id": "offer_wow",
+    "title": "Wow offer.",
+    "description": "The best offers ever.",
+    "link": "https://en.formaloo.com/",
+    "imageUrl": "https://i.pinimg.com/736x/d5/b8/68/d5b8684e917bde981c48a67cd86e7dfa.jpg"
+  },{
+    "id": "offer_tasty",
+    "title": "Bah Bah",
+    "description": "BAH BAH",
+    "link": "https://en.formaloo.com/",
+    "imageUrl": "https://i.pinimg.com/originals/16/f8/ec/16f8ec25ef6353499715e035f6668272.jpg"
+  },
+  {
+    "id": "offer_food",
+    "title": "Food ",
+    "description": "YEEEY",
+    "link": "https://en.formaloo.com/",
+    "imageUrl": "https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-food-food-snack-eating-goods-image_14522.jpg"
+  },
+  {
+    "id": "offer_new",
+    "title": "New",
+    "description": "Choose your own big tasty.",
+    "link": "https://en.formaloo.com/",
+    "imageUrl": "https://png.pngtree.com/thumb_back/fw800/back_pic/03/53/33/45579720d58a73c.jpg"
+  },
+  {
+    "id": "offer_best",
+    "title": "Best Sellers",
+    "description": "Double the taste.",
+    "link": "https://en.formaloo.com/",
+    "imageUrl": "https://png.pngtree.com/thumb_back/fw800/back_pic/03/53/33/45579720d58a73c.jpg"
+  },
+
+  {
+    "id": "offer_bites",
+    "title": "My bites",
+    "description": "",
+    "link": "https://en.formaloo.com/",
+    "imageUrl": "https://i.pinimg.com/originals/a0/0a/dd/a00add95569d881b722bb9bbcf643639.jpg"
+  },
+  {
+    "id": "offer_late",
+    "title": "Food Party",
+    "description": "Get ready!",
+    "link": "https://en.formaloo.com/",
+    "imageUrl": "https://i.pinimg.com/originals/c7/4c/fd/c74cfd1b4b96546c918be6520ce9a7e3.jpg"
+  }
+]

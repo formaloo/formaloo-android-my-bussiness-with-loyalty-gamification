@@ -1,0 +1,66 @@
+[
+  {
+    "id": "deals_warm",
+    "title": "30%",
+    "description": "Nice!",
+    "link": "https://en.formaloo.com/",
+    "score_needed": 10,
+    "imageUrl": "https://i.pinimg.com/736x/57/da/65/57da65db48eaf57fc0ade5e605ffa348.jpg"
+  },
+  {
+    "id": "deals_wow",
+    "title": "25$",
+    "description": "The best dealss ever.",
+    "link": "https://en.formaloo.com/",
+    "score_needed":5,
+    "imageUrl": "https://i.pinimg.com/736x/d5/b8/68/d5b8684e917bde981c48a67cd86e7dfa.jpg"
+  },
+  {
+    "id": "deals_tasty",
+    "title": "40%",
+    "description": "BAH BAH",
+    "link": "https://en.formaloo.com/",
+    "score_needed": 3,
+    "imageUrl": "https://i.pinimg.com/originals/16/f8/ec/16f8ec25ef6353499715e035f6668272.jpg"
+  },
+  {
+    "id": "deals_food",
+    "title": "15%",
+    "description": "YEEEY",
+    "link": "https://en.formaloo.com/",
+    "score_needed": 8,
+    "imageUrl": "https://png.pngtree.com/thumb_back/fw800/background/20190221/ourmid/pngtree-food-food-snack-eating-goods-image_14522.jpg"
+  },
+  {
+    "id": "deals_new",
+    "title": "35$",
+    "description": "Choose your own big tasty.",
+    "link": "https://en.formaloo.com/",
+    "score_needed": 7,
+    "imageUrl": "https://png.pngtree.com/thumb_back/fw800/back_pic/03/53/33/45579720d58a73c.jpg"
+  },
+  {
+    "id": "deals_best",
+    "title": "20$",
+    "description": "Double the taste.",
+    "link": "https://en.formaloo.com/",
+    "score_needed": 10,
+    "imageUrl": "https://png.pngtree.com/thumb_back/fw800/back_pic/03/53/33/45579720d58a73c.jpg"
+  },
+  {
+    "id": "deals_bites",
+    "title": "20%",
+    "description": "",
+    "link": "https://en.formaloo.com/",
+    "score_needed": 6,
+    "imageUrl": "https://i.pinimg.com/originals/a0/0a/dd/a00add95569d881b722bb9bbcf643639.jpg"
+  },
+  {
+    "id": "deals_late",
+    "title": "30%",
+    "description": "Get ready!",
+    "link": "https://en.formaloo.com/",
+    "score_needed": 25,
+    "imageUrl": "https://i.pinimg.com/originals/c7/4c/fd/c74cfd1b4b96546c918be6520ce9a7e3.jpg"
+  }
+]
